@@ -1,0 +1,20 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 8,
+  "category_card_count": 2000,
+  "html_files": 2012,
+  "missing_baidu_count": 0,
+  "missing_internal_links": [],
+  "hls_source_count": 2000,
+  "category_distribution": {
+    "欧美精选": 250,
+    "热门电影": 250,
+    "剧集片库": 250,
+    "悬疑犯罪": 250,
+    "动作冒险": 250,
+    "爱情喜剧": 250,
+    "家庭剧情": 250,
+    "动画综艺": 250
+  }
+}

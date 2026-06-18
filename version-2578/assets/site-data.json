@@ -1,0 +1,55 @@
+{
+  "siteTitle": "欧美高清视频-热门好看的视频大全-高清视频在线观看",
+  "logo": "欧美高清视频",
+  "movieCount": 2000,
+  "categories": [
+    {
+      "name": "欧美精选",
+      "slug": "oumei-jingxuan",
+      "count": 250,
+      "file": "category-oumei-jingxuan.html"
+    },
+    {
+      "name": "热门电影",
+      "slug": "rebo-dianying",
+      "count": 250,
+      "file": "category-rebo-dianying.html"
+    },
+    {
+      "name": "剧集片库",
+      "slug": "juji-pinku",
+      "count": 250,
+      "file": "category-juji-pinku.html"
+    },
+    {
+      "name": "悬疑犯罪",
+      "slug": "xuanyi-fanzui",
+      "count": 250,
+      "file": "category-xuanyi-fanzui.html"
+    },
+    {
+      "name": "动作冒险",
+      "slug": "dongzuo-maoxian",
+      "count": 250,
+      "file": "category-dongzuo-maoxian.html"
+    },
+    {
+      "name": "爱情喜剧",
+      "slug": "aiqing-xiju",
+      "count": 250,
+      "file": "category-aiqing-xiju.html"
+    },
+    {
+      "name": "家庭剧情",
+      "slug": "jiating-juqing",
+      "count": 250,
+      "file": "category-jiating-juqing.html"
+    },
+    {
+      "name": "动画综艺",
+      "slug": "donghua-zongyi",
+      "count": 250,
+      "file": "category-donghua-zongyi.html"
+    }
+  ]
+}
